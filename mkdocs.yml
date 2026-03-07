@@ -1,0 +1,35 @@
+site_name: Troubleshooting Hub
+site_description: A troubleshooting hub for Revolution Macro and RDP issues
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.instant
+    - navigation.path
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - content.tabs
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+    - scheme: slate
+      primary: deep orange
+      accent: deep orange
+
+plugins:
+  - search:
+      lang: en
+
+nav:
+  - Home: index.md
+  - Revolution Macro:
+      - revolution-macro/index.md
+      - revolution-macro/installation.md
+  - RDP Troubleshooting:
+      - rdp-troubleshooting/index.md
+      - rdp-troubleshooting/connection-issues.md
