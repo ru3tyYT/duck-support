@@ -1,6 +1,11 @@
 # Old troubleshooting files (imported to docs)
 Rdp\ wrapper\ Troubleshooting\ Guide.md
 Troubleshooting\ RDP\ stuff\ bwop.md
+Remote\ Desktop\ Protocol.md
+General\ Optimization\ Guide.md
+
+# Project files
+AGENTS.md
 
 # MkDocs
 site/
