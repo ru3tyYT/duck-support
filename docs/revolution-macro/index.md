@@ -6,13 +6,14 @@ title: Revolution Macro Troubleshooting
 
 Find solutions to common Revolution Macro issues.
 
-## Common Issues
+## Articles
 
-- [Installation Issues](installation.md) - Problems during installation
+| Article | Description |
+|---------|-------------|
+| [Installation Issues](installation.md) | Problems during installation |
 
 ## Coming Soon
 
 More troubleshooting articles will be added when you import your content.
 
-!!! note
-    Import your existing troubleshooting guides here.
+[:material-arrow-left: Back to Home](../index.md)
