@@ -1,25 +1,32 @@
 site_name: Troubleshooting Hub
 site_description: A troubleshooting hub for Revolution Macro and RDP issues
+site_url: https://ru3tyyt.github.io/duck-support/
 
 theme:
   name: material
   features:
-    - navigation.tabs
     - navigation.sections
     - navigation.instant
     - navigation.path
+    - navigation.top
     - search.suggest
     - search.highlight
     - search.share
     - content.code.copy
-    - content.tabs
+    - toc.integrate
   palette:
     - scheme: default
       primary: indigo
       accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
     - scheme: slate
       primary: deep orange
       accent: deep orange
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
 
 plugins:
   - search:
