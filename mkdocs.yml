@@ -37,8 +37,12 @@ nav:
   - Revolution Macro:
       - revolution-macro/index.md
       - revolution-macro/installation.md
+  - RDP Setup:
+      - rdp-troubleshooting/rdp-setup.md
   - RDP Troubleshooting:
       - rdp-troubleshooting/index.md
       - rdp-troubleshooting/connection-issues.md
       - rdp-troubleshooting/rdp-wrapper.md
       - rdp-troubleshooting/common-errors.md
+  - Optimization:
+      - optimization/index.md
