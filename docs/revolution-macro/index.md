@@ -10,10 +10,10 @@ Find solutions to common Revolution Macro issues.
 
 | Article | Description |
 |---------|-------------|
-| [Installation Issues](installation.md) | Problems during installation |
-
-## Coming Soon
-
-More troubleshooting articles will be added when you import your content.
+| [Troubleshooting Guide](troubleshooting.md) | Main troubleshooting index |
+| [Common Errors & Fixes](common-errors.md) | Known fixes for common errors |
+| [Connection Issues](connection-issues.md) | Backend and connection problems |
+| [RDP Issues](rdp-issues.md) | Issues when using RDP |
+| [Mac Issues](mac-issues.md) | Mac-specific problems |
 
 [← Back to Home](../index.md)
