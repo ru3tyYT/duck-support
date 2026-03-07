@@ -73,6 +73,8 @@ This happens because **Windows Defender** or any other **anti-virus software** i
 
 ## 5. Rdp.exe Not Opening
 
+![Error screenshot](../assets/images/rdp/wrapper_img5.png)
+
 This means you don't have **Remote Desktop Connection** installed on your PC.
 
 **Solution:**
