@@ -16,4 +16,4 @@ Find solutions to common Revolution Macro issues.
 
 More troubleshooting articles will be added when you import your content.
 
-[:material-arrow-left: Back to Home](../index.md)
+[← Back to Home](../index.md)

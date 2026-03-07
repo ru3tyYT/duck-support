@@ -15,7 +15,7 @@ Select a category below to get started:
 
 Installation, configuration, and common errors for Revolution Macro software.
 
-[View Articles :material-arrow-right:](revolution-macro/index.md)
+[View Articles →](revolution-macro/index.md)
 
 ---
 
@@ -23,7 +23,7 @@ Installation, configuration, and common errors for Revolution Macro software.
 
 Remote Desktop Protocol connection, authentication, and performance issues.
 
-[View Articles :material-arrow-right:](rdp-troubleshooting/index.md)
+[View Articles →](rdp-troubleshooting/index.md)
 
 ---
 
