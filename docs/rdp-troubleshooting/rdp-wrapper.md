@@ -33,7 +33,7 @@ Your `.ini` file is probably **outdated**. To fix this:
 
 ## 2. Remote Desktop Service Session Has Ended
 
-![Error screenshot](../assets/images/wrapper_img2.png)
+![Error screenshot](../assets/images/rdp/wrapper_img2.png)
 
 The Remote Desktop Service in Services is probably being stopped by a **third party app** (Example: Razer Cortex).
 
@@ -47,7 +47,7 @@ The Remote Desktop Service in Services is probably being stopped by a **third pa
 
 ## 3. Can't Sign In Your User
 
-![Error screenshot](../assets/images/wrapper_img3.png)
+![Error screenshot](../assets/images/rdp/wrapper_img3.png)
 
 This most likely happens because the user **is not admin**.
 
@@ -61,7 +61,7 @@ This most likely happens because the user **is not admin**.
 
 ## 4. Access is Denied (install.bat)
 
-![Error screenshot](../assets/images/wrapper_img4.png)
+![Error screenshot](../assets/images/rdp/wrapper_img4.png)
 
 This happens because **Windows Defender** or any other **anti-virus software** is blocking it.
 
@@ -102,7 +102,7 @@ To lower the CPU usage of RDP, use a shortcut with `1366x768` resolution:
 
 ## 7. Disconnected Because Another Connection Was Made
 
-![Error screenshot](../assets/images/wrapper_img6.png)
+![Error screenshot](../assets/images/rdp/wrapper_img6.png)
 
 You are probably trying to log in to `127.0.0.1`. 
 
@@ -112,7 +112,7 @@ You are probably trying to log in to `127.0.0.1`.
 
 ## 8. Unable to Connect to the RDP Port
 
-![Error screenshot](../assets/images/wrapper_img7.png)
+![Error screenshot](../assets/images/rdp/wrapper_img7.png)
 
 **Solution:**
 
@@ -126,7 +126,7 @@ If both are running, make sure the RDP Conf shows everything green. If not, go t
 
 ## 9. This Computer Can't Connect to the Remote Computer
 
-![Error screenshot](../assets/images/wrapper_img8.png)
+![Error screenshot](../assets/images/rdp/wrapper_img8.png)
 
 This probably means you don't have enough **RAM** to run the RDP.
 
@@ -136,7 +136,7 @@ This probably means you don't have enough **RAM** to run the RDP.
 
 ## 10. Windows Could Not Start the Remote Desktop Service (Error 126)
 
-![Error screenshot](../assets/images/wrapper_img9.png)
+![Error screenshot](../assets/images/rdp/wrapper_img9.png)
 
 **Solution:**
 
@@ -152,7 +152,7 @@ reg add HKLM\SYSTEM\CurrentControlSet\Services\TermService\Parameters /v Service
 
 ## 11. Supported/Not Listening
 
-![Error screenshot](../assets/images/wrapper_img10.png)
+![Error screenshot](../assets/images/rdp/wrapper_img10.png)
 
 Before anything, make sure you:
 1. Restarted your PC
