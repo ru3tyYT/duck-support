@@ -32,6 +32,11 @@ plugins:
   - search:
       lang: en
 
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
 nav:
   - Home: index.md
   - Revolution Macro:
