@@ -2,37 +2,53 @@
 title: Home
 hide:
   - navigation
+  - toc
 ---
 
 # Troubleshooting Hub
 
-Welcome to the Troubleshooting Hub. Use the search bar above or browse the sections below to find solutions to your issues.
-
-## Quick Links
+Select a category below to get started:
 
 <div class="grid cards" markdown>
 
--   ### Revolution Macro
-    -   Installation issues
-    -   Configuration problems
-    -   Common errors
-    
-    [View Articles :material-arrow-right:](revolution-macro/index.md)
+:fontawesome-brands-windows:{ .lg .middle } **Revolution Macro**
 
--   ### RDP Troubleshooting
-    -   Connection issues
-    -   Authentication errors
-    -   Performance problems
-    
-    [View Articles :material-arrow-right:](rdp-troubleshooting/index.md)
+---
+
+Installation, configuration, and common errors for Revolution Macro software.
+
+[:material-arrow-right: View Articles](revolution-macro/index.md)
+
+---
+
+:computer:{ .lg .middle } **RDP Troubleshooting**
+
+---
+
+Remote Desktop Protocol connection, authentication, and performance issues.
+
+[:material-arrow-right: View Articles](rdp-troubleshooting/index.md)
 
 </div>
 
-## Getting Started
+---
 
-1. **Search** for your error message or symptom using `Ctrl+K` / `Cmd+K`
-2. **Browse** to the relevant section using the navigation tabs above
-3. **Follow** the troubleshooting steps in each article
+## Popular Articles
 
-!!! tip "Pro Tip"
-    The search feature supports advanced queries. Try searching for specific error codes or keywords.
+<div class="grid cards" markdown>
+
+-   **[RDP Wrapper Configuration](rdp-troubleshooting/rdp-wrapper.md)**
+    - RDP Wrapper setup and common issues
+
+-   **[RDP Common Errors](rdp-troubleshooting/common-errors.md)**
+    - Termsrv.dll, connection issues, fixes
+
+-   **[Installation Issues](revolution-macro/installation.md)**
+    - Installation problems and solutions
+
+</div>
+
+---
+
+!!! tip "Quick Search"
+    Press `Ctrl+K` or `Cmd+K` to search for specific error codes or keywords.
