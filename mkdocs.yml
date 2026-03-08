@@ -2,6 +2,9 @@ site_name: Troubleshooting Hub
 site_description: A troubleshooting hub for Revolution Macro and RDP issues
 site_url: https://ru3tyyt.github.io/duck-support/
 
+extra_css:
+  - assets/stylesheets/custom.css
+
 theme:
   name: material
   features:
